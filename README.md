@@ -43,24 +43,3 @@ The main goal of this project is to analyze and compare the mental health condit
 ## Conclusion
 The analysis underscores the importance of workplace mental health initiatives and highlights key demographic and historical factors influencing treatment-seeking behavior. Organizations can leverage these insights to develop better mental health support structures.
 
-## Repository Structure
-- `data/` - Contains the dataset used for analysis.
-- `notebooks/` - Jupyter notebooks for data exploration and visualization.
-- `src/` - Scripts for data processing and analysis.
-- `README.md` - Project documentation.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/mental-health-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd mental-health-analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the analysis notebooks or scripts to explore the findings.
-
